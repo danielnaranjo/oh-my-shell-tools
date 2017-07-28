@@ -13,6 +13,9 @@ RUTAKEYSTORE="C:/Users/inacayal1/Documents/APP"
 RUTAPROYECTO="C:/Users/inacayal1/Documents/APP"
 RUTADESTINO="C:/Users/inacayal1/Documents/APP/$PROYECTO/$NOMBREARCHIVO"
 
+NOMBREKEYSTORE=""
+PASSKEYSTORE=""
+ALIASKEYSTORE=""
 
 PERFIL="--release" #debug or release
 PLATAFORMA="android" #ios or android
