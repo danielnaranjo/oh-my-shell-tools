@@ -2,8 +2,6 @@
 
 composer create-project --prefer-dist laravel/laravel $1
 cd $1
-composer install
-yarn install
 touch README.md
 cp .env.example .env
 git init
